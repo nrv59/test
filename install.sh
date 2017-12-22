@@ -1,5 +1,7 @@
 #!/bin/bash
 
+su 
+
 echo "update"
 apt-get update
 apt-get upgrade
