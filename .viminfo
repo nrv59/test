@@ -1,0 +1,291 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~Msle0~/\<1\>
+
+# Historique ligne de commande (chronologie décroissante) :
+:x
+:w
+:q
+:X
+:q!
+:?
+
+# Historique chaîne de recherche (chronologie décroissante) :
+? \<1\>
+?/x
+?/w
+? \<2\>
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+""-	CHAR	0
+	h
+
+# Marques dans le fichier :
+'0  23  18  /tmp/crontab.fgK006/crontab
+'1  3  0  /bin/sauve
+'2  23  39  /tmp/crontab.lo1uG1/crontab
+'3  23  2  /tmp/crontab.nzYiJ5/crontab
+'4  23  18  /tmp/crontab.9oBbaM/crontab
+'5  23  1  /tmp/crontab.kGPmZJ/crontab
+'6  23  21  /tmp/crontab.Ewqrt5/crontab
+'7  23  16  /tmp/crontab.UYJqKS/crontab
+'8  23  17  /tmp/crontab.ZPO2VN/crontab
+'9  20  55  /tmp/crontab.Gb6sYn/crontab
+
+# Liste de sauts (le plus récent en premier) :
+-'  23  18  /tmp/crontab.fgK006/crontab
+-'  1  0  /tmp/crontab.fgK006/crontab
+-'  3  0  /bin/sauve
+-'  1  0  /bin/sauve
+-'  23  39  /tmp/crontab.lo1uG1/crontab
+-'  1  0  /tmp/crontab.lo1uG1/crontab
+-'  23  2  /tmp/crontab.nzYiJ5/crontab
+-'  1  0  /tmp/crontab.nzYiJ5/crontab
+-'  23  18  /tmp/crontab.9oBbaM/crontab
+-'  1  0  /tmp/crontab.9oBbaM/crontab
+-'  23  1  /tmp/crontab.kGPmZJ/crontab
+-'  1  0  /tmp/crontab.kGPmZJ/crontab
+-'  23  21  /tmp/crontab.Ewqrt5/crontab
+-'  1  0  /tmp/crontab.Ewqrt5/crontab
+-'  23  16  /tmp/crontab.UYJqKS/crontab
+-'  1  0  /tmp/crontab.UYJqKS/crontab
+-'  23  17  /tmp/crontab.ZPO2VN/crontab
+-'  1  0  /tmp/crontab.ZPO2VN/crontab
+-'  20  55  /tmp/crontab.Gb6sYn/crontab
+-'  1  0  /tmp/crontab.Gb6sYn/crontab
+-'  1  0  /tmp/sauve_log
+-'  23  34  /tmp/crontab.dDnBLl/crontab
+-'  1  0  /tmp/crontab.dDnBLl/crontab
+-'  1  0  /tmp/crontab.jvXl5J/crontab
+-'  1  0  /tmp/crontab.z6r9Yb/crontab
+-'  23  2  /tmp/crontab.AIMrx5/crontab
+-'  1  0  /tmp/crontab.AIMrx5/crontab
+-'  23  15  /tmp/crontab.xTpJpH/crontab
+-'  1  0  /tmp/crontab.xTpJpH/crontab
+-'  23  18  /tmp/crontab.vHZq3R/crontab
+-'  1  0  /tmp/crontab.vHZq3R/crontab
+-'  23  1  /tmp/crontab.ziSFkV/crontab
+-'  1  0  /tmp/crontab.ziSFkV/crontab
+-'  1  0  /tmp/crontab.W6FlBL/crontab
+-'  16  7  /tmp/crontab.D8NdkE/crontab
+-'  24  0  /tmp/crontab.D8NdkE/crontab
+-'  1  0  /tmp/crontab.D8NdkE/crontab
+-'  1  0  ~/.zshrc
+-'  24  21  ~/.zshrc
+-'  23  0  ~/.zshrc
+-'  23  16  /tmp/crontab.sJWgQx/crontab
+-'  1  0  /tmp/crontab.sJWgQx/crontab
+-'  23  2  /tmp/crontab.bIcaRj/crontab
+-'  1  0  /tmp/crontab.bIcaRj/crontab
+-'  23  24  /tmp/crontab.CDOxsV/crontab
+-'  1  0  /tmp/crontab.CDOxsV/crontab
+-'  24  8  /tmp/crontab.Ct20dv/crontab
+-'  1  0  /tmp/crontab.Ct20dv/crontab
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  24  8  /tmp/crontab.Ct20dv/crontab
+-'  1  0  /tmp/crontab.Ct20dv/crontab
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  23  24  /tmp/crontab.CDOxsV/crontab
+-'  1  0  /tmp/crontab.CDOxsV/crontab
+-'  24  8  /tmp/crontab.Ct20dv/crontab
+-'  1  0  /tmp/crontab.Ct20dv/crontab
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  24  8  /tmp/crontab.Ct20dv/crontab
+-'  1  0  /tmp/crontab.Ct20dv/crontab
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  23  2  /tmp/crontab.bIcaRj/crontab
+-'  1  0  /tmp/crontab.bIcaRj/crontab
+-'  23  24  /tmp/crontab.CDOxsV/crontab
+-'  1  0  /tmp/crontab.CDOxsV/crontab
+-'  24  8  /tmp/crontab.Ct20dv/crontab
+-'  1  0  /tmp/crontab.Ct20dv/crontab
+-'  3  0  /TP/sauve
+-'  1  0  /TP/sauve
+-'  9  19  /TP/sauve
+-'  8  19  /TP/sauve
+-'  3  0  /TP/sauve
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> /tmp/crontab.fgK006/crontab
+	"	23	18
+	^	23	19
+	.	23	19
+	+	23	19
+
+> /bin/sauve
+	"	3	0
+
+> /tmp/crontab.lo1uG1/crontab
+	"	23	39
+	^	23	40
+	.	23	38
+	+	23	38
+
+> /tmp/crontab.nzYiJ5/crontab
+	"	23	2
+	^	23	3
+	.	23	2
+	+	23	2
+
+> /tmp/crontab.9oBbaM/crontab
+	"	23	18
+	^	23	19
+	.	23	0
+	+	23	0
+
+> /tmp/crontab.kGPmZJ/crontab
+	"	23	1
+
+> /tmp/crontab.Ewqrt5/crontab
+	"	23	21
+	^	23	22
+	.	23	21
+	+	23	21
+
+> /tmp/crontab.UYJqKS/crontab
+	"	23	16
+
+> /tmp/crontab.ZPO2VN/crontab
+	"	23	17
+	^	23	18
+	.	23	17
+	+	23	17
+
+> /tmp/crontab.Gb6sYn/crontab
+	"	20	55
+	.	20	55
+	+	20	55
+
+> /tmp/sauve_log
+	"	1	0
+
+> /tmp/crontab.dDnBLl/crontab
+	"	23	34
+	^	23	35
+	.	23	34
+	+	23	34
+
+> /tmp/crontab.jvXl5J/crontab
+	"	1	0
+
+> /tmp/crontab.z6r9Yb/crontab
+	"	1	0
+
+> /tmp/crontab.AIMrx5/crontab
+	"	23	2
+	^	23	3
+	.	23	2
+	+	23	2
+
+> /tmp/crontab.xTpJpH/crontab
+	"	23	15
+	^	23	16
+	.	23	16
+	+	23	16
+
+> /tmp/crontab.vHZq3R/crontab
+	"	23	18
+	^	23	19
+	.	23	18
+	+	23	18
+
+> /tmp/crontab.ziSFkV/crontab
+	"	23	1
+	^	23	2
+	.	23	2
+	+	23	2
+
+> /tmp/crontab.W6FlBL/crontab
+	"	1	0
+
+> /tmp/crontab.D8NdkE/crontab
+	"	16	7
+	^	24	0
+	.	23	28
+	+	23	28
+
+> ~/.zshrc
+	"	1	0
+	^	23	0
+	.	22	4
+	+	22	4
+
+> /tmp/crontab.sJWgQx/crontab
+	"	23	16
+	^	23	17
+	.	23	16
+	+	23	16
+
+> /tmp/crontab.bIcaRj/crontab
+	"	23	2
+	^	23	3
+	.	23	3
+	+	23	3
+	p	23	2
+
+> /tmp/crontab.CDOxsV/crontab
+	"	23	24
+	^	23	25
+	.	23	24
+	+	22	28
+	+	23	24
+
+> /tmp/crontab.Ct20dv/crontab
+	"	24	8
+	^	24	9
+	.	25	0
+	+	25	0
+	+	25	0
+
+> /TP/sauve
+	"	3	0
+	^	3	0
+	.	4	0
+	+	8	3
+	+	2	0
+	+	3	0
+	+	3	0
+	+	4	0
